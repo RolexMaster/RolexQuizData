@@ -1,6 +1,6 @@
 quiz:
 - question: 임시 테스트
-  url: https://github.com/RolexMaster/RolexQuizData/blob/main/116610%EC%84%9C%EB%B8%8C%EB%A7%88%EB%A6%AC%EB%84%88.jpg
+  url: https://content.rolex.com/dam/2021/upright-bba-with-shadow/m126610ln-0001.png?imwidth=840
   answers:
     - isAnswer: Y
       example: 배트걸
