@@ -24,7 +24,7 @@ quiz:
       example: 위
       
 - question: 다음 좌/우의 왕관 엠블럼 사진 중 정품은?
-  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_crown.jpg
+  url: 
   answers:
     - isAnswer: n
       example: 왼쪽
