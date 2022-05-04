@@ -13,7 +13,7 @@ quiz:
     - isAnswer: Y
       example: 오른쪽
     - isAnswer: n
-      example: 
+      example: 왼쪽
       
 - question: 다음 롤렉스 파츠의 이름은?
   url: https://shop-phinf.pstatic.net/20211214_224/1639484355228rHHQi_PNG/%EB%B2%A0%EC%A0%A4.png       
