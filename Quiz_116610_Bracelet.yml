@@ -15,7 +15,7 @@ quiz:
     - isAnswer: n
       example: 아래
       
-- question: 다음 위/아래의 이지링크 사진 중 정품은?
+- question: 다음 위/아래의 이지링크n사진 중 정품은?
   url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_ezlink.jpg
   answers:
     - isAnswer: n
@@ -23,7 +23,7 @@ quiz:
     - isAnswer: Y
       example: 위
       
-- question: 다음 좌/우의 왕관 엠블럼 사진 중 정품은?
+- question: 다음 좌/우의 왕관 엠블럼n사진 중 정품은?
   url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_crown.jpg
   answers:
     - isAnswer: n
