@@ -1,5 +1,5 @@
 quiz:
-- question: 롤렉스 정/가품의 전반적인 브러싱 상태를n측면에서 비교한 사진이다 다음 중 정품은?
+- question: 롤렉스 정/가품의 전반적인 브러싱 상태를n비교한 사진이다 다음 중 정품은?
   url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_brushing.jpg
   answers:
     - isAnswer: Y
