@@ -7,13 +7,13 @@ quiz:
     - isAnswer: n
       example: 아래
       
-- question: 다음 엔드링크 사진 중 정품은 ?
+- question: 다음 엔드링크 사진의 왼쪽과 오른쪽 중 정품은 ?
   url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/%EC%97%94%EB%93%9C%EB%A7%81%ED%81%AC.jpg
   answers:
     - isAnswer: Y
-      example: 우
+      example: 오른쪽
     - isAnswer: n
-      example: 좌
+      example: 
       
 - question: 다음 롤렉스 파츠의 이름은?
   url: https://shop-phinf.pstatic.net/20211214_224/1639484355228rHHQi_PNG/%EB%B2%A0%EC%A0%A4.png       
