@@ -1,6 +1,6 @@
 quiz:
 - question: 다음 사진은 롤렉스 정/가품의 전반적인 브러싱 상태를 측면에서 비교한 사진이다 다음 중 정품은?
-  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/%EB%B8%8C%EB%9F%AC%EC%8B%B1%EC%83%81%ED%83%9C.jpg
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/%EB%B8%8C%EB%9F%AC%EC%8B%B1%EC%83%81%ED%83%9C2.jpg
   answers:
     - isAnswer: Y
       example: 위
