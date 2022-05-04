@@ -40,7 +40,7 @@ quiz:
       example: 정품
 
 - question: 다음 왕관 엠블럼은 정품인가? 가품인가?
-  url: https://content.rolex.com/dam/rolex-sav/buying-a-rolex/the-rolex-guarantee/2021/rolex-guarantee_retailcampaign2020_guaranteecard.jpg?imwidth=2880
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_crown_gen.jpg
   answers:
     - isAnswer: n
       example: 가품
