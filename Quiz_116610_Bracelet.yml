@@ -7,67 +7,51 @@ quiz:
     - isAnswer: n
       example: 아래
       
-- question: 다음 엔드링크 사진의 왼쪽과 오른쪽 중 정품은 ?
-  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/%EC%97%94%EB%93%9C%EB%A7%81%ED%81%AC.jpg
+- question: 다음 엔드링크 사진의 왼쪽과 오른쪽 중 정품은?
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_endlink.jpg
   answers:
     - isAnswer: Y
       example: 오른쪽
     - isAnswer: n
       example: 왼쪽
       
-- question: 다음 롤렉스 파츠의 이름은?
-  url: https://shop-phinf.pstatic.net/20211214_224/1639484355228rHHQi_PNG/%EB%B2%A0%EC%A0%A4.png       
+- question: 다음 위/아래의 이지링크 사진 중 정품은?
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_ezlink.jpg
   answers:
     - isAnswer: n
-      example: 바질
+      example: 아래
     - isAnswer: Y
-      example: 베젤
+      example: 위
       
-- question: 다음 롤렉스 브레이슬릿의 이름은?
-  url: https://shop-phinf.pstatic.net/20211230_289/1640875152810F9Rd5_JPEG/tmp1250414448384315488.jpg
+- question: 다음 좌/우의 왕관 엠블럼 사진 중 정품은?
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_crown.jpg
   answers:
     - isAnswer: n
-      example: 오이스터 브레이슬릿(Oyster Bracelet)
+      example: 왼쪽
     - isAnswer: Y
-      example: 쥬빌리 블레이슬릿(Jubilee Bracelet)
+      example: 오른쪽
 
-- question: 다음은 롤렉스 시계 무브먼트이다n이 무브먼트의 방식은??
+- question: 다음 이지링크는 정품인가? 가품인가?
   url: https://cdn.watchbase.com/caliber/lg/origin:jpg/rolex/3135-f8.webp
   answers:
     - isAnswer: Y
-      example: 오토매틱 무브먼트(Automatic Movement)
+      example: 가품
     - isAnswer: n
-      example: 쿼츠 무브먼트(Quartz Movement)
+      example: 정품
 
-- question: 2020년부터 출시된 롤렉스 개런티 카드n속에는 OOO가 들어가 있다?
+- question: 다음 왕관 엠블럼은 정품인가? 가품인가?
   url: https://content.rolex.com/dam/rolex-sav/buying-a-rolex/the-rolex-guarantee/2021/rolex-guarantee_retailcampaign2020_guaranteecard.jpg?imwidth=2880
   answers:
     - isAnswer: n
-      example: NFT
+      example: 가품
     - isAnswer: Y
-      example: NFC
+      example: 정품
 
 
-- question: 롤렉스 개발한 방수 케이스 이름은n오이스터 케이스 입니다n오이스터(Oyster)의 뜻은?
-  url: https://content.rolex.com/dam/about-rolex-watches/oyster-case/roller-the-stength-of-a-concept/watchmaking-oyster-case-the-stength-of-a-concept-case-back_sav_10jdm_027_portrait.jpg?imwidth=420
+- question: 다음 엔드링크는 정품인가? 가품인가?
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_endlink_fake.jpg
   answers:
     - isAnswer: n
-      example: 방수
+      example: 정품
     - isAnswer: Y
-      example: 굴
-
-- question: 다음 롤렉스의 브레이슬릿 익스텐션n 시스템의 명칭은?
-  url: https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/features/bracelet/bracelet-extensions-systems/elmt_1704jva_006.jpg?imwidth=540&impolicy=grid-1&imdensity=2
-  answers:
-    - isAnswer: Y
-      example: 글라이드락(Glide Lock)
-    - isAnswer: n
-      example: 이지링크(Easy Link)
-      
-- question: 다음중 롤렉스 시계 모델이 아닌것은?
-  url: https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/about-rolex/about-rolex-hub/3colm09haec113247r.jpeg?imwidth=360&imdensity=2
-  answers:
-    - isAnswer: n
-      example: Pealmaster
-    - isAnswer: Y
-      example: Seamaster
+      example: 가품
