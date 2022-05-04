@@ -32,7 +32,7 @@ quiz:
       example: 오른쪽
 
 - question: 다음 이지링크는 정품인가? 가품인가?
-  url: https://cdn.watchbase.com/caliber/lg/origin:jpg/rolex/3135-f8.webp
+  url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_ezlink_fake.jpg
   answers:
     - isAnswer: Y
       example: 가품
