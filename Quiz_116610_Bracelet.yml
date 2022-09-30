@@ -31,7 +31,7 @@ quiz:
     - isAnswer: Y
       example: 오른쪽
 
-- question: 다음 이지링크는 정품인가? 가품인가?
+- question: 다음 글라이드록은 정품인가? 가품인가?
   url: https://raw.githubusercontent.com/RolexMaster/RolexQuizData/main/1_ezlink_fake.jpg
   answers:
     - isAnswer: Y
